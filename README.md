@@ -1,2 +1,3 @@
-# ayushraj2349.gihub.io
-Deployed Web Page for a Blog Series
+# ayushraj2349.github.io
+## Deployed a Web Page using HTML and CSS for a Blog Series on Object Detection!
+## Explained Important Concepts along with Code in context of Projects in the Series.
